@@ -1,0 +1,29 @@
+nav {
+	text-align: center;
+	font-size: x-large;
+	background-color: cornflowerblue;
+	color: ghostwhite;
+	position: fixed;
+	top: 0;
+	left: 5px;
+	right: 5px;
+	height: 40px;
+	line-height: 40px;
+}
+
+#english {
+	position: fixed;
+	right: 20px;
+	top: 10px;
+	width: 70px;
+	height: 20px;
+	background-color: cornflowerblue;
+	color: ghostwhite;
+	border-color: cornflowerblue;
+}
+
+#content {
+	margin-top: 50px;
+	margin-left: 80px;
+	right: 5px;
+}
